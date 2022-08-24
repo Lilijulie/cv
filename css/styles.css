@@ -122,7 +122,21 @@ height: 480px;
   color: #69c7b6;
   margin: 0;
   font-size: .8rem;
-
-
 }
+
+.About_me > h1 {
+  color: #0460db;
+  font-size: 2rem;
+}
+
+.Skills > h1 {
+  color: #f0946e;
+  font-size: 2rem;
+}
+
+.Contact > h1 {
+  color: #9765a5;
+  font-size: 2rem;
+}
+
 

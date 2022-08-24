@@ -138,5 +138,11 @@ height: 480px;
   color: #9765a5;
   font-size: 5rem;
 }
-
+.Bottom-Banner {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: 10px;
+}
 

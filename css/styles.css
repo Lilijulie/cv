@@ -87,6 +87,11 @@ hr {
   padding-top: 20.83%;
 }
 
+.header-banner > img {
+  width: 100%;
+  height: auto;
+}
+
 /*
 19
 */
